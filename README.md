@@ -5,7 +5,7 @@
      VS2010 及以上版本
      
   ## 功能界面主菜单
-    ![功能菜单主界面]()
+    ![功能菜单主界面](https://github.com/GitHub-Pen/C-Entry/blob/master/res/main.png)
     
   ## C++ 学习（二十八章经）
      以下是我学习C++梳理的知识点，共二十八条，与君共享！！！
