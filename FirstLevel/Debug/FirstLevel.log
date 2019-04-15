@@ -1,0 +1,175 @@
+﻿生成启动时间为 2019/4/15 11:04:46。
+     1>项目“D:\T3DLearn\四十二章经\FirstLevel\FirstLevel\FirstLevel.vcxproj”在节点 2 上(rebuild 个目标)。
+     1>_PrepareForClean:
+         正在删除文件“Debug\C++Entry.lastbuildstate”。
+       InitializeBuildStatus:
+         正在创建“Debug\C++Entry.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Debug\C++Entry.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\C++Entry.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt FirstLevel.cpp
+         FirstLevel.cpp
+     1>d:\t3dlearn\四十二章经\firstlevel\firstlevel\ap_variable.h(14): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>d:\t3dlearn\四十二章经\firstlevel\firstlevel\array.h(12): warning C4101: “sz_DlArray”: 未引用的局部变量
+     1>d:\t3dlearn\四十二章经\firstlevel\firstlevel\array.h(10): warning C4101: “i_dla”: 未引用的局部变量
+     1>d:\t3dlearn\四十二章经\firstlevel\firstlevel\array.h(11): warning C4101: “i_dlb”: 未引用的局部变量
+     1>d:\t3dlearn\四十二章经\firstlevel\firstlevel\ch_array.h(15): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>d:\t3dlearn\四十二章经\firstlevel\firstlevel\ch_array.h(22): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>d:\t3dlearn\四十二章经\firstlevel\firstlevel\ch_array.h(27): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>d:\t3dlearn\四十二章经\firstlevel\firstlevel\ch_array.h(28): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(110) : 参见“strcat”的声明
+     1>d:\t3dlearn\四十二章经\firstlevel\firstlevel\ch_array.h(45): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : 参见“sprintf”的声明
+     1>d:\t3dlearn\四十二章经\firstlevel\firstlevel\ch_array.h(46): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : 参见“sprintf”的声明
+     1>d:\t3dlearn\四十二章经\firstlevel\firstlevel\ch_array.h(50): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(325) : 参见“sscanf”的声明
+     1>d:\t3dlearn\四十二章经\firstlevel\firstlevel\ch_array.h(51): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(325) : 参见“sscanf”的声明
+     1>d:\t3dlearn\四十二章经\firstlevel\firstlevel\cycle.h(13): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>d:\t3dlearn\四十二章经\firstlevel\firstlevel\doublelist.h(21): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>d:\t3dlearn\四十二章经\firstlevel\firstlevel\doublelist.h(29): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>d:\t3dlearn\四十二章经\firstlevel\firstlevel\doublelist.h(48): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>d:\t3dlearn\四十二章经\firstlevel\firstlevel\doublelist.h(50): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>d:\t3dlearn\四十二章经\firstlevel\firstlevel\doublelist.h(83): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>d:\t3dlearn\四十二章经\firstlevel\firstlevel\filewr.h(15): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>d:\t3dlearn\四十二章经\firstlevel\firstlevel\filewr.h(17): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>d:\t3dlearn\四十二章经\firstlevel\firstlevel\filewr.h(22): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 d:\t3dlearn\四十二章经\firstlevel\firstlevel\filewr.h(13) : 忽略“i”的定义
+                 d:\t3dlearn\四十二章经\firstlevel\firstlevel\filewr.h(6) : 使用“i”的定义
+     1>d:\t3dlearn\四十二章经\firstlevel\firstlevel\filewr.h(22): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 d:\t3dlearn\四十二章经\firstlevel\firstlevel\filewr.h(13) : 忽略“i”的定义
+                 d:\t3dlearn\四十二章经\firstlevel\firstlevel\filewr.h(6) : 使用“i”的定义
+     1>d:\t3dlearn\四十二章经\firstlevel\firstlevel\filewr.h(22): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 d:\t3dlearn\四十二章经\firstlevel\firstlevel\filewr.h(13) : 忽略“i”的定义
+                 d:\t3dlearn\四十二章经\firstlevel\firstlevel\filewr.h(6) : 使用“i”的定义
+     1>d:\t3dlearn\四十二章经\firstlevel\firstlevel\filewr.h(24): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 d:\t3dlearn\四十二章经\firstlevel\firstlevel\filewr.h(13) : 忽略“i”的定义
+                 d:\t3dlearn\四十二章经\firstlevel\firstlevel\filewr.h(6) : 使用“i”的定义
+     1>d:\t3dlearn\四十二章经\firstlevel\firstlevel\filewr.h(36): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>d:\t3dlearn\四十二章经\firstlevel\firstlevel\funcvalue.h(14): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>d:\t3dlearn\四十二章经\firstlevel\firstlevel\funcvalue.h(27): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>d:\t3dlearn\四十二章经\firstlevel\firstlevel\funcvalue.h(40): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>d:\t3dlearn\四十二章经\firstlevel\firstlevel\indicator.h(15): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>d:\t3dlearn\四十二章经\firstlevel\firstlevel\indicator.h(38): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>d:\t3dlearn\四十二章经\firstlevel\firstlevel\locateoper.h(11): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>d:\t3dlearn\四十二章经\firstlevel\firstlevel\locateoper.h(21): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>d:\t3dlearn\四十二章经\firstlevel\firstlevel\logicaloper.h(10): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>d:\t3dlearn\四十二章经\firstlevel\firstlevel\numsort.h(15): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>d:\t3dlearn\四十二章经\firstlevel\firstlevel\numsort.h(20): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>d:\t3dlearn\四十二章经\firstlevel\firstlevel\numsort.h(55): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>d:\t3dlearn\四十二章经\firstlevel\firstlevel\numsort.h(60): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>d:\t3dlearn\四十二章经\firstlevel\firstlevel\postoper.h(10): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>d:\t3dlearn\四十二章经\firstlevel\firstlevel\studentlist.h(13): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>d:\t3dlearn\四十二章经\firstlevel\firstlevel\studentlist.h(42): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>d:\t3dlearn\四十二章经\firstlevel\firstlevel\studentlist.h(51): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>d:\t3dlearn\四十二章经\firstlevel\firstlevel\studentlist.h(81): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>d:\t3dlearn\四十二章经\firstlevel\firstlevel\studentlist.h(117): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>d:\t3dlearn\四十二章经\firstlevel\firstlevel\studentlist.h(146): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>d:\t3dlearn\四十二章经\firstlevel\firstlevel\studentlist.h(148): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>d:\t3dlearn\四十二章经\firstlevel\firstlevel\studentlist.h(157): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>d:\t3dlearn\四十二章经\firstlevel\firstlevel\studentlist.h(189): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>d:\t3dlearn\四十二章经\firstlevel\firstlevel\studentlist.h(211): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>d:\t3dlearn\四十二章经\firstlevel\firstlevel\studentlist.h(218): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>d:\t3dlearn\四十二章经\firstlevel\firstlevel\studentlist.h(220): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>d:\t3dlearn\四十二章经\firstlevel\firstlevel\studentlist.h(250): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>d:\t3dlearn\四十二章经\firstlevel\firstlevel\studentlist.h(267): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>d:\t3dlearn\四十二章经\firstlevel\firstlevel\studentlist.h(269): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>d:\t3dlearn\四十二章经\firstlevel\firstlevel\studentlist.h(278): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>d:\t3dlearn\四十二章经\firstlevel\firstlevel\studentlist.h(308): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>d:\t3dlearn\四十二章经\firstlevel\firstlevel\studentlist.h(362): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>d:\t3dlearn\四十二章经\firstlevel\firstlevel\studentlist.h(364): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>d:\t3dlearn\四十二章经\firstlevel\firstlevel\studentlist.h(366): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>d:\t3dlearn\四十二章经\firstlevel\firstlevel\studentlist.h(343): warning C4101: “i_StuIds”: 未引用的局部变量
+     1>d:\t3dlearn\四十二章经\firstlevel\firstlevel\studentlist.h(375): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>d:\t3dlearn\四十二章经\firstlevel\firstlevel\studentlist.h(405): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>d:\t3dlearn\四十二章经\firstlevel\firstlevel\studentlist.h(455): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>d:\t3dlearn\四十二章经\firstlevel\firstlevel\variable.h(9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>d:\t3dlearn\四十二章经\firstlevel\firstlevel\variable.h(12): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>d:\t3dlearn\四十二章经\firstlevel\firstlevel\variable.h(15): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>d:\t3dlearn\四十二章经\firstlevel\firstlevel\variable.h(18): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>d:\t3dlearn\四十二章经\firstlevel\firstlevel\menumain.h(31): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>d:\t3dlearn\四十二章经\firstlevel\firstlevel\menuschool.h(15): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>d:\t3dlearn\四十二章经\firstlevel\firstlevel\menuclassinfo.h(18): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>d:\t3dlearn\四十二章经\firstlevel\firstlevel\menucourseinfo.h(17): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>d:\t3dlearn\四十二章经\firstlevel\firstlevel\firstlevel.cpp(99): warning C4101: “i_Choose”: 未引用的局部变量
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\C++Entry.exe.embed.manifest.res" Debug\C++Entry_manifest.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\T3DLearn\四十二章经\FirstLevel\Debug\C++Entry.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\C++Entry.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\T3DLearn\四十二章经\FirstLevel\Debug\C++Entry.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\T3DLearn\四十二章经\FirstLevel\Debug\C++Entry.lib" /MACHINE:X86 Debug\C++Entry.exe.embed.manifest.res
+         Debug\FirstLevel.obj
+         Debug\stdafx.obj
+       Manifest:
+         正在删除文件“Debug\C++Entry.exe.embed.manifest”。
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\C++Entry.exe.embed.manifest" /manifest Debug\C++Entry.exe.intermediate.manifest
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\C++Entry.exe.embed.manifest.res" Debug\C++Entry_manifest.rc 
+       LinkEmbedManifest:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\T3DLearn\四十二章经\FirstLevel\Debug\C++Entry.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\C++Entry.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\T3DLearn\四十二章经\FirstLevel\Debug\C++Entry.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\T3DLearn\四十二章经\FirstLevel\Debug\C++Entry.lib" /MACHINE:X86 Debug\C++Entry.exe.embed.manifest.res
+         Debug\FirstLevel.obj
+         Debug\stdafx.obj
+         FirstLevel.vcxproj -> D:\T3DLearn\四十二章经\FirstLevel\Debug\C++Entry.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\C++Entry.unsuccessfulbuild”。
+         正在对“Debug\C++Entry.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\T3DLearn\四十二章经\FirstLevel\FirstLevel\FirstLevel.vcxproj”(rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.52

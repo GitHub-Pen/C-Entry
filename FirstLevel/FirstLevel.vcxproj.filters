@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="FirstLevel.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="variable.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MathOper.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Postoper.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="LogicalOper.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="LocateOper.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Array.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Ch_Array.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Indicator.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Ap_Variable.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Cycle.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="FuncValue.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Filewr.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DoubleList.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DataType.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="StudentList.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="NumSort.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MenuMain.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="WholeVari.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MenuSchool.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MenuStuInfo.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MenuClassInfo.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MenuScoreInfo.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MenuCourseInfo.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="FirstLevel.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
