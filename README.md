@@ -9,7 +9,7 @@
   ![image](https://raw.githubusercontent.com/GitHub-Pen/C-Entry/master/res/main.png)
     
   ## C++ 学习（二十八章经）
-  以下是我学习 C++ 时学习的知识点，共二十八条，与君共享！！！
+  以下是我学习 C++ 时的知识点，共二十八条，与君共享！！！
      
   ### 第一阶段
   1.   语言变量声明、变量赋值
